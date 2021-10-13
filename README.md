@@ -1,7 +1,7 @@
 # Instagram Unfollowers
 Script to get a list of users that are not following you back
 
-(Youtube Tutorial)[https://www.youtube.com/watch?v=tWbAs7vSbUM]
+[Youtube Tutorial](https://www.youtube.com/watch?v=tWbAs7vSbUM)
 
 How to use:
 1. Log onto instagram.com
@@ -15,4 +15,4 @@ How to use:
 9. Give the script a few seconds to run 
 10. Enjoy!
 
-Credits to this (stackoverflow)[https://stackoverflow.com/questions/32407851/instagram-api-how-can-i-retrieve-the-list-of-people-a-user-is-following-on-ins]
+Credits to this [stackoverflow](https://stackoverflow.com/questions/32407851/instagram-api-how-can-i-retrieve-the-list-of-people-a-user-is-following-on-ins)
